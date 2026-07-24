@@ -1,94 +1,144 @@
-# 👋 Hi, I'm Serhii Buts
+# Hi, I'm Serhii 👋
 
-## AI Automation Engineer | n8n Developer | Workflow Automation
+## AI Automation Engineer | n8n Developer
 
-I build AI-powered automation systems that eliminate repetitive work, integrate business tools, and streamline business processes.
+I build AI-powered business automation systems that eliminate manual work, connect business applications, and help teams save hundreds of hours through intelligent workflows.
 
-### 🚀 What I build
+My focus is:
 
-- 🤖 AI Automation Systems
-- ⚙️ n8n Workflows
+- 🤖 AI Agents
+- ⚡ n8n Automation
 - 🔗 API Integrations
-- 📊 Business Process Automation
-- 📱 Telegram Bots
-- 🗂️ CRM Automations
-- 🧠 AI Assistants
-- 📂 Document Processing
-- ☁️ GitHub Workflow Version Control
+- 💬 Telegram Bots
+- 🧠 OpenAI & LLM Workflows
+- 📊 Airtable & Google Workspace
+- ☁️ CRM Automation
+- 📞 Voice AI
 
 ---
 
-## 🛠 Tech Stack
+# Tech Stack
+
+### AI
+
+- OpenAI
+- GPT-4o
+- Prompt Engineering
+- AI Agents
+- LLM Automation
 
 ### Automation
+
 - n8n
 - Webhooks
 - REST APIs
-- OpenAI API
-- GitHub API
+- JSON
+- JavaScript
 
 ### Integrations
-- Google Workspace
+
 - Telegram Bot API
-- Slack
-- Notion
+- Airtable
 - Google Sheets
 - Google Drive
-
-### Development
-- JavaScript
-- JSON
-- HTML/CSS
-
----
-
-## 📌 Featured Projects
-
-🚀 Enterprise Workflow Version Control for n8n
-
-• Automatic backup of all workflows
-• GitHub version control
-• Create / Update logic
-• JSON workflow storage
-• Enterprise backup architecture
+- Google Docs
+- Google Calendar
+- Gmail
+- Slack
+- Notion
+- GitHub
+- Zoho CRM
 
 ---
 
-🤖 AI Personal Assistant
+# Featured Projects
 
-• Google Calendar
-• Todoist
-• Notion
-• Finance Tracking
-• Voice Commands
-• Telegram Interface
+## Enterprise Workflow Version Control
 
----
+Enterprise-grade backup and version control system for n8n workflows.
 
-🍽 Restaurant Automation Suite
+**Stack**
 
-• Employee Time Tracking
-• Food Cost Calculator
-• Inventory Automation
-• Invoice Processing
+- n8n
+- GitHub API
+- Telegram
+- OpenAI
 
 ---
 
-## 🌱 Currently Learning
+## AI Call Quality Monitoring
 
-- AI Agents
+AI analyzes customer calls, evaluates operator performance, generates reports, and sends alerts automatically.
+
+---
+
+## Employee Transportation Automation
+
+AI system that automatically creates optimal employee transportation routes.
+
+---
+
+## AI Personal Assistant
+
+Telegram AI assistant capable of managing:
+
+- Tasks
+- Meetings
+- Notes
+- Personal Finance
+- Calendar
+- Documents
+
+---
+
+## Invoice Processing Automation
+
+AI extracts invoice data, validates products, and creates purchase invoices automatically.
+
+---
+
+## AI Task Management
+
+Voice-powered task management system using Airtable and Telegram.
+
+---
+
+# What I Build
+
+✅ AI Agents
+
+✅ AI Workflows
+
+✅ CRM Integrations
+
+✅ Business Process Automation
+
+✅ Telegram Bots
+
+✅ Voice AI
+
+✅ Internal Business Tools
+
+---
+
+# Currently Learning
+
+- Advanced AI Agents
 - MCP
-- LangChain
-- Advanced n8n Architecture
-- Slack Automation
-- Enterprise AI Systems
+- Multi-Agent Systems
+- Production-grade AI Automation
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-💼 LinkedIn:
-www.linkedin.com/in/serhii-buts
+LinkedIn
+
+https://www.linkedin.com/in/sergii-buts-ai
+
+GitHub
+
+https://github.com/Malligos
 
 📧 Email:
 butssergei7778@gmail.com

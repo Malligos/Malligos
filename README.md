@@ -3,7 +3,15 @@
 ## AI Automation Engineer | n8n Developer
 
 I build AI-powered business automation systems that eliminate manual work, connect business applications, and help teams save hundreds of hours through intelligent workflows.
+![n8n](https://img.shields.io/badge/n8n-AI_Automation-EA4B71?style=for-the-badge)
 
+![OpenAI](https://img.shields.io/badge/OpenAI-LLM-black?style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+
+![Airtable](https://img.shields.io/badge/Airtable-Integrations-blue?style=for-the-badge)
+
+![Telegram](https://img.shields.io/badge/Telegram-Bots-26A5E4?style=for-the-badge)
 My focus is:
 
 - 🤖 AI Agents

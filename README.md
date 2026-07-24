@@ -1,6 +1,12 @@
 # Hi, I'm Serhii 👋
 
 ## AI Automation Engineer | n8n Developer
+![AI Automation](https://img.shields.io/badge/AI-Automation-blue?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-Workflow-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT-black?style=for-the-badge&logo=openai)
+![Telegram Bots](https://img.shields.io/badge/Telegram-Bots-26A5E4?style=for-the-badge&logo=telegram)
+![API Integrations](https://img.shields.io/badge/API-Integrations-green?style=for-the-badge)
+![Airtable](https://img.shields.io/badge/Airtable-CRM-18BFFF?style=for-the-badge&logo=airtable)
 
 I build AI-powered business automation systems that eliminate manual work, connect business applications, and help teams save hundreds of hours through intelligent workflows.
 My focus is:
